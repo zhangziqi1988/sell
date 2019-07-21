@@ -1,0 +1,8 @@
+2019-07-21 15:10:18.619  INFO 18328 --- [main] com.imooc.sell.LoggerTest                : Starting LoggerTest on DESKTOP-O46EQ1I with PID 18328 (started by zzq in G:\workspace-wxseller\sell)
+2019-07-21 15:10:18.620  INFO 18328 --- [main] com.imooc.sell.LoggerTest                : No active profile set, falling back to default profiles: default
+2019-07-21 15:10:19.638  INFO 18328 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-21 15:10:19.834  INFO 18328 --- [main] com.imooc.sell.LoggerTest                : Started LoggerTest in 1.504 seconds (JVM running for 2.168)
+2019-07-21 15:10:19.965  INFO 18328 --- [main] com.imooc.sell.LoggerTest                : info...
+2019-07-21 15:10:19.968  INFO 18328 --- [main] com.imooc.sell.LoggerTest                : name: imooc,password: 123456
+2019-07-21 15:10:19.969 ERROR 18328 --- [main] com.imooc.sell.LoggerTest                : error...
+2019-07-21 15:10:19.973  INFO 18328 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
